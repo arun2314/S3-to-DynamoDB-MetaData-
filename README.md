@@ -28,3 +28,4 @@ Click Save.
 Step 5: Test the Setup
 Upload an image to S3.
 Check DynamoDB, and the metadata should be added automatically! 🎉
+   
